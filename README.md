@@ -9,8 +9,12 @@
 ```bash
 # من GitHub (بعد الرفع)
 pkg install git
-
+```
+```
 git clone https://github.com/ibrahimkhacef5-del/UrlPo
+
+```
+```
 # أو محلياً
 pip install -e.
 ```
